@@ -1,0 +1,7 @@
+C:\Users\zhenglei\Documents\GitHub\mp3tag\mp3tag\bin\Release\net6.0-windows\publish\mp3tag.exe
+C:\Users\zhenglei\Documents\GitHub\mp3tag\mp3tag\bin\Release\net6.0-windows\publish\mp3tag.dll
+C:\Users\zhenglei\Documents\GitHub\mp3tag\mp3tag\bin\Release\net6.0-windows\publish\mp3tag.deps.json
+C:\Users\zhenglei\Documents\GitHub\mp3tag\mp3tag\bin\Release\net6.0-windows\publish\mp3tag.runtimeconfig.json
+C:\Users\zhenglei\Documents\GitHub\mp3tag\mp3tag\bin\Release\net6.0-windows\publish\mp3tag.pdb
+C:\Users\zhenglei\Documents\GitHub\mp3tag\mp3tag\bin\Release\net6.0-windows\publish\en-001\mp3tag.resources.dll
+C:\Users\zhenglei\Documents\GitHub\mp3tag\mp3tag\bin\Release\net6.0-windows\publish\TagLibSharp.dll
