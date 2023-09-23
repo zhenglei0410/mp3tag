@@ -7,6 +7,9 @@
 
 本软件不仅可以帮助您更好地组织和管理自己的音乐库，还可以让您更轻松地享受音乐的美好。如果您有任何疑问或建议，请随时联系开发者。
 
+
+<img src="https://github.com/zhenglei0410/mp3tag/blob/master/mp3tag.png" />
+
 【EN】
 
 This software is a tool for batch modifying MP3 tag information. 
