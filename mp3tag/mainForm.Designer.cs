@@ -41,7 +41,9 @@
             btnName = new Button();
             btnAll = new Button();
             btnClear = new Button();
+            label1 = new Label();
             oFD = new OpenFileDialog();
+            linkLabel1 = new LinkLabel();
             gBPendingFiles.SuspendLayout();
             gBProcessedFiles.SuspendLayout();
             gBMethod.SuspendLayout();
@@ -134,15 +136,19 @@
             tableLayoutPanel1.Controls.Add(btnName, 0, 2);
             tableLayoutPanel1.Controls.Add(btnAll, 0, 1);
             tableLayoutPanel1.Controls.Add(btnClear, 0, 4);
+            tableLayoutPanel1.Controls.Add(label1, 0, 6);
+            tableLayoutPanel1.Controls.Add(linkLabel1, 0, 7);
             tableLayoutPanel1.Location = new Point(3, 19);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
-            tableLayoutPanel1.RowCount = 6;
+            tableLayoutPanel1.RowCount = 8;
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 10F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 10F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 10F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 10F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 10F));
-            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 40F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 5F));
+            tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 5F));
             tableLayoutPanel1.Size = new Size(380, 460);
             tableLayoutPanel1.TabIndex = 0;
             // 
@@ -207,10 +213,31 @@
             btnClear.UseVisualStyleBackColor = true;
             btnClear.Click += btnClear_Click;
             // 
+            // label1
+            // 
+            label1.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            label1.AutoSize = true;
+            label1.Location = new Point(244, 420);
+            label1.Name = "label1";
+            label1.Size = new Size(133, 17);
+            label1.TabIndex = 6;
+            label1.Text = "Designed by zhenglei";
+            // 
             // oFD
             // 
             oFD.Filter = "mp3文件|*.mp3";
             oFD.Multiselect = true;
+            // 
+            // linkLabel1
+            // 
+            linkLabel1.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            linkLabel1.AutoSize = true;
+            linkLabel1.Location = new Point(131, 443);
+            linkLabel1.Name = "linkLabel1";
+            linkLabel1.Size = new Size(246, 17);
+            linkLabel1.TabIndex = 7;
+            linkLabel1.TabStop = true;
+            linkLabel1.Text = "https://github.com/zhenglei0410/mp3tag";
             // 
             // mainForm
             // 
@@ -247,5 +274,7 @@
         private Button btnTitle;
         private TableLayoutPanel tableLayoutPanel1;
         private Button btnClear;
+        private Label label1;
+        private LinkLabel linkLabel1;
     }
 }

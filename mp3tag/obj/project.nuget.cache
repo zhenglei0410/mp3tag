@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E9esScYuBkNh3ijJPUP8CqOBfgjK2aIXzvhtjoI/pMDT/kLpFRPbdad8hYYgHo8OTp4Bc6Cr4u3R+SqFOwS5XQ==",
+  "dgSpecHash": "epMyYBxCw1GdQ/WnZBlozvGliQnNoKgz1AMwE7Ihpt5Ys0LxPAr92bCmHM9GIa/JVB8rC+5HIGvHNzO2SxDCHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\source\\repos\\mp3tag\\mp3tag\\mp3tag.csproj",
+  "projectFilePath": "C:\\Users\\zhenglei\\Documents\\GitHub\\mp3tag\\mp3tag\\mp3tag.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512"
+    "C:\\Users\\zhenglei\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\source\\repos\\mp3tag\\mp3tag\\mp3tag.csproj": {}
+    "C:\\Users\\zhenglei\\Documents\\GitHub\\mp3tag\\mp3tag\\mp3tag.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\source\\repos\\mp3tag\\mp3tag\\mp3tag.csproj": {
+    "C:\\Users\\zhenglei\\Documents\\GitHub\\mp3tag\\mp3tag\\mp3tag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\mp3tag\\mp3tag\\mp3tag.csproj",
+        "projectUniqueName": "C:\\Users\\zhenglei\\Documents\\GitHub\\mp3tag\\mp3tag\\mp3tag.csproj",
         "projectName": "mp3tag",
-        "projectPath": "C:\\Users\\admin\\source\\repos\\mp3tag\\mp3tag\\mp3tag.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\source\\repos\\mp3tag\\mp3tag\\obj\\",
+        "projectPath": "C:\\Users\\zhenglei\\Documents\\GitHub\\mp3tag\\mp3tag\\mp3tag.csproj",
+        "packagesPath": "C:\\Users\\zhenglei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zhenglei\\Documents\\GitHub\\mp3tag\\mp3tag\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zhenglei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

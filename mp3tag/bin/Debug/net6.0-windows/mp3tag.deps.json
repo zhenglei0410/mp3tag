@@ -14,8 +14,8 @@
           "mp3tag.dll": {}
         },
         "resources": {
-          "en-US/mp3tag.resources.dll": {
-            "locale": "en-US"
+          "en-001/mp3tag.resources.dll": {
+            "locale": "en-001"
           }
         }
       },
